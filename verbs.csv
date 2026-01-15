@@ -1,0 +1,383 @@
+infinitive,meaning,mood,tense,yo,tú,él/ella/usted,nosotros/nosotras,vosotros/vosotras,ellos/ellas/ustedes
+ser,～である (性質),直説法,現在,soy,eres,es,somos,sois,son
+ser,～である (性質),直説法,点過去,fui,fuiste,fue,fuimos,fuisteis,fueron
+ser,～である (性質),直説法,線過去,era,eras,era,éramos,erais,eran
+ser,～である (性質),直説法,未来,seré,serás,será,seremos,seréis,serán
+estar,～である (状態),直説法,現在,estoy,estás,está,estamos,estáis,están
+estar,～である (状態),直説法,点過去,estuve,estuviste,estuvo,estuvimos,estuvisteis,estuvieron
+estar,～である (状態),直説法,線過去,estaba,estabas,estaba,estábamos,estabais,estaban
+ir,行く,直説法,現在,voy,vas,va,vamos,vais,van
+ir,行く,直説法,点過去,fui,fuiste,fue,fuimos,fuisteis,fueron
+ir,行く,直説法,線過去,iba,ibas,iba,íbamos,ibais,iban
+ir,行く,直説法,未来,iré,irás,irá,iremos,iréis,irán
+tener,持つ・ある,直説法,現在,tengo,tienes,tiene,tenemos,tenéis,tienen
+tener,持つ・ある,直説法,点過去,tuve,tuviste,tuvo,tuvimos,tuvisteis,tuvieron
+tener,持つ・ある,直説法,線過去,tenía,tenías,tenía,teníamos,teníais,tenían
+tener,持つ・ある,直説法,未来,tendré,tendrás,tendrá,tendremos,tendréis,tendrán
+hacer,する・作る,直説法,現在,hago,haces,hace,hacemos,hacéis,hacen
+hacer,する・作る,直説法,点過去,hice,hiciste,hizo,hicimos,hicisteis,hicieron
+hacer,する・作る,直説法,線過去,hacía,hacías,hacía,hacíamos,hacíais,hacían
+hacer,する・作る,直説法,未来,haré,harás,hará,haremos,haréis,harán
+decir,言う,直説法,現在,digo,dices,dice,decimos,decís,dicen
+decir,言う,直説法,点過去,dije,dijiste,dijo,dijimos,dijisteis,dijeron
+decir,言う,直説法,線過去,decía,decías,decía,decíamos,decíais,decían
+decir,言う,直説法,未来,diré,dirás,dirá,diremos,diréis,dirán
+poder,できる,直説法,現在,puedo,puedes,puede,podemos,podéis,pueden
+poder,できる,直説法,点過去,pude,pudiste,pudo,pudimos,pudisteis,pudieron
+poder,できる,直説法,線過去,podía,podías,podía,podíamos,podíais,podían
+poder,できる,直説法,未来,podré,podrás,podrá,podremos,podréis,podrán
+ver,見る,直説法,現在,veo,ves,ve,vemos,veis,ven
+ver,見る,直説法,点過去,vi,viste,vio,vimos,visteis,vieron
+ver,見る,直説法,線過去,veía,veías,veía,veíamos,veíais,veían
+dar,与える,直説法,現在,doy,das,da,damos,dais,dan
+dar,与える,直説法,点過去,di,diste,dio,dimos,disteis, dieron
+dar,与える,直説法,線過去,daba,dabas,daba,dábamos,dabais,daban
+saber,知っている,直説法,現在,sé,sabes,sabe,sabemos,sabéis,saben
+saber,知っている,直説法,点過去,supe,supiste,supo,supimos,supisteis,supieron
+saber,知っている,直説法,線過去,sabía,sabías,sabía,sabíamos,sabíais,sabían
+saber,知っている,直説法,未来,sabré,sabrás,sabrá,sabremos,sabréis,sabrán
+querer,欲しい・愛する,直説法,現在,quiero,quieres,quiere,queremos,queréis,quieren
+querer,欲しい・愛する,直説法,点過去,quise,quisiste,quiso,quisimos,quisisteis,quisieron
+querer,欲しい・愛する,直説法,線過去,quería,querías,quería,queríamos,queríais,querían
+querer,欲しい・愛する,直説法,未来,querré,querrás,querrá,querremos,querréis,querrán
+llegar,到着する,直説法,現在,llego,llegas,llega,llegamos,llegáis,llegan
+llegar,到着する,直説法,点過去,llegué,llegaste,llegó,llegamos,llegasteis,llegaron
+creer,信じる,直説法,現在,creo,crees,cree,creemos,creéis,creen
+creer,信じる,直説法,点過去,creí,creíste,creyó,creímos,creísteis,creyeron
+hablar,話す,直説法,現在,hablo,hablas,habla,hablamos,habláis,hablan
+hablar,話す,直説法,点過去,hablé,hablaste,habló,hablamos,hablasteis,hablaron
+hablar,話す,直説法,線過去,hablaba,hablabas,hablaba,hablábamos,hablabais,hablaban
+comer,食べる,直説法,現在,como,comes,come,comemos,coméis,comen
+comer,食べる,直説法,点過去,comí,comiste,comió,comimos,comisteis,comieron
+comer,食べる,直説法,線過去,comía,comías,comía,comíamos,comíais,comían
+vivir,住む・生きる,直説法,現在,vivo,vives,vive,vivimos,vivís,viven
+vivir,住む・生きる,直説法,点過去,viví,viviste,vivió,vivimos,vivisteis,vivieron
+vivir,住む・生きる,直説法,線過去,vivía,vivías,vivía,vivíamos,vivíais,vivían
+haber,ある・いる (助動詞),直説法,現在,he,has,ha,hemos,habéis,han
+haber,ある・いる (助動詞),直説法,点過去,hube,hubiste,hubo,hubimos,hubisteis,hubieron
+haber,ある・いる (助動詞),直説法,線過去,había,habías,había,habíamos,habíais,habían
+poner,置く,直説法,現在,pongo,pones,pone,ponemos,ponéis,ponen
+poner,置く,直説法,点過去,puse,pusiste,puso,pusimos,pusisteis,pusieron
+poner,置く,直説法,線過去,ponía,ponías,ponía,poníamos,poníais,ponían
+salir,出る,直説法,現在,salgo,sales,sale,salimos,salís,salen
+salir,出る,直説法,点過去,salí,saliste,salió,salimos,salisteis,salieron
+salir,出る,直説法,線過去,salía,salías,salía,salíamos,salíais,salían
+venir,来る,直説法,現在,vengo,vienes,viene,venimos,venís,vienen
+venir,来る,直説法,点過去,vine,viniste,vino,vinimos,vinisteis,vinieron
+venir,来る,直説法,線過去,venía,venías,venía,veníamos,veníais,venían
+traer,持ってくる,直説法,現在,traigo,traes,trae,traemos,traéis,traen
+traer,持ってくる,直説法,点過去,traje,trajiste,trajo,trajimos,trajisteis,trajeron
+traer,持ってくる,直説法,線過去,traía,traías,traía,traíamos,traíais,traían
+conocer,知っている (面識),直説法,現在,conozco,conoces,conoce,conocemos,conocéis,conocen
+conocer,知っている (面識),直説法,点過去,conocí,conociste,conoció,conocimos,conocisteis,conocieron
+conocer,知っている (面識),直説法,線過去,conocía,conocías,conocía,conocíamos,conocíais,conocían
+sentir,感じる,直説法,現在,siento,sientes,siente,sentimos,sentís,sienten
+sentir,感じる,直説法,点過去,sentí,sentiste,sintió,sentimos,sentisteis,sintieron
+sentir,感じる,直説法,線過去,sentía,sentías,sentía,sentíamos,sentíais,sentían
+pedir,頼む・求める,直説法,現在,pido,pides,pide,pedimos,pedís,piden
+pedir,頼む・求める,直説法,点過去,pedí,pediste,pidió,pedimos,pedisteis,pidieron
+pedir,頼む・求める,直説法,線過去,pedía,pedías,pedía,pedíamos,pedíais,pedían
+dormir,眠る,直説法,現在,duermo,duermes,duerme,dormimos,dormís,duermen
+dormir,眠る,直説法,点過去,dormí,dormiste,durmió,dormimos,dormisteis,durmieron
+dormir,眠る,直説法,線過去,dormía,dormías,dormía,dormíamos,dormíais,dormían
+pensar,考える,直説法,現在,pienso,piensas,piensa,pensamos,pensáis,piensan
+pensar,考える,直説法,点過去,pensé,pensaste,pensó,pensamos,pensasteis,pensaron
+pensar,考える,直説法,線過去,pensaba,pensabas,pensaba,pensábamos,pensabais,pensaban
+entender,理解する,直説法,現在,entiendo,entiendes,entiende,entendemos,entendéis,entienden
+entender,理解する,直説法,点過去,entendí,entendiste,entendió,entendimos,entendisteis,entendieron
+entender,理解する,直説法,線過去,entendía,entendías,entendía,entendíamos,entendíais,entendían
+jugar,遊ぶ・競技する,直説法,現在,juego,juegas,juega,jugamos,jugáis,juegan
+jugar,遊ぶ・競技する,直説法,点過去,jugué,jugaste,jugó,jugamos,jugasteis,jugaron
+jugar,遊ぶ・競技する,直説法,線過去,jugaba,jugabas,jugaba,jugábamos,jugabais,jugaban
+escribir,書く,直説法,現在,escribo,escribes,escribe,escribimos,escribís,escriben
+escribir,書く,直説法,点過去,escribí,escribiste,escribió,escribimos,escribisteis,escribieron
+escribir,書く,直説法,線過去,escribía,escribías,escribía,escribíamos,escribíais,escribían
+leer,読む,直説法,現在,leo,lees,lee,leemos,leéis,leen
+leer,読む,直説法,点過去,leí,leíste,leyó,leimos,leísteis,leyeron
+leer,読む,直説法,線過去,leía,leías,leía,leíamos,leíais,leían
+ser,～である (性質),直説法,過去未来 (条件法),sería,serías,sería,seríamos,seríais,serían
+ser,～である (性質),直説法,現在完了,he sido,has sido,ha sido,hemos sido,habéis sido,han sido
+ser,～である (性質),直説法,過去完了,había sido,habías sido,había sido,habíamos sido,habíais sido,habían sido
+ser,～である (性質),命令法,肯定,-,sé,sea,seamos,sed,sean
+ser,～である (性質),接続法,現在,sea,seas,sea,seamos,seáis,sean
+ser,～である (性質),接続法,過去 (ra),fuera,fueras,fuera,fuéramos,fuerais,fueran
+ser,～である (性質),分詞,過去,-,sido,-,-,-,-
+ser,～である (性質),分詞,現在 (Gerundio),-,siendo,-,-,-,-
+estar,～である (状態),直説法,未来,estaré,estarás,estará,estaremos,estaréis,estarán
+estar,～である (状態),直説法,過去未来 (条件法),estaría,estarías,estaría,estaríamos,estaríais,estarían
+estar,～である (状態),命令法,肯定,-,está,esté,estemos,estad,estén
+estar,～である (状態),接続法,現在,esté,estés,esté,estemos,estéis,estén
+estar,～である (状態),分詞,過去,-,estado,-,-,-,-
+estar,～である (状態),分詞,現在 (Gerundio),-,estando,-,-,-,-
+ir,行く,直説法,過去未来 (条件法),iría,irías,iría,iríamos,iríais,irían
+ir,行く,命令法,肯定,-,ve,vaya,vayamos,id,vayan
+ir,行く,接続法,現在,vaya,vayas,vaya,vayamos,vayáis,vayan
+ir,行く,分詞,過去,-,ido,-,-,-,-
+ir,行く,分詞,現在 (Gerundio),-,yendo,-,-,-,-
+gustar,気に入る (～が好き),直説法,現在,me gusta,te gusta,le gusta,nos gusta,os gusta,les gusta
+gustar,気に入る (～が好き),直説法,点過去,me gustó,te gustó,le gustó,nos gustó,os gustó,les gustó
+gustar,気に入る (～が好き),直説法,線過去,me gustaba,te gustaba,le gustaba,nos gustaba,os gustaba,les gustaba
+levantarse,起きる (再帰),直説法,現在,me levanto,te levantas,se levanta,nos levantamos,os levantáis,se levantan
+levantarse,起きる (再帰),直説法,点過去,me levanté,te levantaste,se levantó,nos levantamos,os levantasteis,se levantaron
+haber,ある・いる (助動詞),直説法,未来,habré,habrás,habrá,habremos,habréis,habrán
+haber,ある・いる (助動詞),直説法,過去未来 (条件法),habría,habrías,habría,habríamos,habríais,habrían
+haber,ある・いる (助動詞),接続法,現在,haya,hayas,haya,hayamos,hayáis,hayan
+haber,ある・いる (助動詞),接続法,過去 (ra),hubiera,hubieras,hubiera,hubiéramos,hubierais,hubieran
+haber,ある・いる (助動詞),分詞,過去,-,habido,-,-,-,-
+haber,ある・いる (助動詞),分詞,現在 (Gerundio),-,habiendo,-,-,-,-
+tener,持つ・ある,直説法,過去未来 (条件法),tendría,tendrías,tendría,tendríamos,tendríais,tendrían
+tener,持つ・ある,直説法,現在完了,he tenido,has tenido,ha tenido,hemos tenido,habéis tenido,han tenido
+tener,持つ・ある,直説法,過去完了,había tenido,habías tenido,había tenido,habíamos tenido,habíais tenido,habían tenido
+tener,持つ・ある,命令法,肯定,-,ten,tenga,tengamos,tened,tengan
+tener,持つ・ある,接続法,現在,tenga,tengas,tenga,tengamos,tengáis,tengan
+tener,持つ・ある,接続法,過去 (ra),tuviera,tuvieras,tuviera,tuviéramos,tuvierais,tuvieran
+tener,持つ・ある,分詞,過去,-,tenido,-,-,-,-
+tener,持つ・ある,分詞,現在 (Gerundio),-,teniendo,-,-,-,-
+hacer,する・作る,直説法,過去未来 (条件法),haría,harías,haría,haríamos,haríais,harían
+hacer,する・作る,直説法,現在完了,he hecho,has hecho,ha hecho,hemos hecho,habéis hecho,han hecho
+hacer,する・作る,直説法,過去完了,había hecho,habías hecho,había hecho,habíamos hecho,habíais hecho,habían hecho
+hacer,する・作る,命令法,肯定,-,haz,haga,hagamos,haced,hagan
+hacer,する・作る,接続法,現在,haga,hagas,haga,hagamos,hagáis,hagan
+hacer,する・作る,接続法,過去 (ra),hiciera,hicieras,hiciera,hiciéramos,hicierais,hicieran
+hacer,する・作る,分詞,過去,-,hecho,-,-,-,-
+hacer,する・作る,分詞,現在 (Gerundio),-,haciendo,-,-,-,-
+decir,言う,直説法,過去未来 (条件法),diría,dirías,diría,diríamos,diríais,dirían
+decir,言う,直説法,現在完了,he dicho,has dicho,ha dicho,hemos dicho,habéis dicho,han dicho
+decir,言う,直説法,過去完了,había dicho,habías dicho,había dicho,habíamos dicho,habíais dicho,habían dicho
+decir,言う,命令法,肯定,-,di,diga,digamos,decid,digan
+decir,言う,接続法,現在,diga,digas,diga,digamos,digáis,digan
+decir,言う,接続法,過去 (ra),dijera,dijeras,dijera,dijéramos,dijerais,dijeran
+decir,言う,分詞,過去,-,dicho,-,-,-,-
+decir,言う,分詞,現在 (Gerundio),-,diciendo,-,-,-,-
+poder,できる,直説法,過去未来 (条件法),podría,podrías,podría,podríamos,podríais,podrían
+poder,できる,直説法,現在完了,he podido,has podido,ha podido,hemos podido,habéis podido,han podido
+poder,できる,直説法,過去完了,había podido,habías podido,había podido,habíamos podido,habíais podido,habían podido
+poder,できる,接続法,現在,pueda,puedas,pueda,podamos,podáis,puedan
+poder,できる,接続法,過去 (ra),pudiera,pudieras,pudiera,pudiéramos,pudierais,pudieran
+poder,できる,分詞,過去,-,podido,-,-,-,-
+poder,できる,分詞,現在 (Gerundio),-,pudiendo,-,-,-,-
+ver,見る,直説法,未来,veré,verás,verá,veremos,veréis,verán
+ver,見る,直説法,過去未来 (条件法),vería,verías,vería,veríamos,veríais,verían
+ver,見る,直説法,現在完了,he visto,has visto,ha visto,hemos visto,habéis visto,han visto
+ver,見る,直説法,過去完了,había visto,habías visto,había visto,habíamos visto,habíais visto,habían visto
+ver,見る,命令法,肯定,-,ve,vea,veamos,ved,vean
+ver,見る,接続法,現在,vea,veas,vea,veamos,veáis,vean
+ver,見る,接続法,過去 (ra),viera,vieras,viera,viéramos,vierais,vieran
+ver,見る,分詞,過去,-,visto,-,-,-,-
+ver,見る,分詞,現在 (Gerundio),-,viendo,-,-,-,-
+dar,与える,直説法,未来,daré,darás,dará,daremos,daréis,darán
+dar,与える,直説法,過去未来 (条件法),daría,darías,daría,daríamos,daríais,darían
+dar,与える,直説法,現在完了,he dado,has dado,ha dado,hemos dado,habéis dado,han dado
+dar,与える,直説法,過去完了,había dado,habías dado,había dado,habíamos dado,habíais dado,habían dado
+dar,与える,命令法,肯定,-,da,dé,demos,dad,den
+dar,与える,接続法,現在,dé,des,dé,demos,deis,den
+dar,与える,接続法,過去 (ra),diera,dieras,diera,diéramos,dierais,dieran
+dar,与える,分詞,過去,-,dado,-,-,-,-
+dar,与える,分詞,現在 (Gerundio),-,dando,-,-,-,-
+saber,知っている,直説法,過去未来 (条件法),sabría,sabrías,sabría,sabríamos,sabríais,sabrían
+saber,知っている,直説法,現在完了,he sabido,has sabido,ha sabido,hemos sabido,habéis sabido,han sabido
+saber,知っている,直説法,過去完了,había sabido,habías sabido,había sabido,habíamos sabido,habíais sabido,habían sabido
+saber,知っている,命令法,肯定,-,sabe,sepa,sepamos,sabed,sepan
+saber,知っている,接続法,現在,sepa,sepas,sepa,sepamos,sepáis,sepan
+saber,知っている,接続法,過去 (ra),supiera,supieras,supiera,supiéramos,supierais,supieran
+saber,知っている,分詞,過去,-,sabido,-,-,-,-
+saber,知っている,分詞,現在 (Gerundio),-,sabiendo,-,-,-,-
+querer,欲しい・愛する,直説法,過去未来 (条件法),querría,querrías,querría,querríamos,querríais,querrían
+querer,欲しい・愛する,直説法,現在完了,he querido,has querido,ha querido,hemos querido,habéis querido,han querido
+querer,欲しい・愛する,直説法,過去完了,había querido,habías querido,había querido,habíamos querido,habíais querido,habían querido
+querer,欲しい・愛する,命令法,肯定,-,quiere,quiera,queramos,quered,quieran
+querer,欲しい・愛する,接続法,現在,quiera,quieras,quiera,queramos,queráis,quieran
+querer,欲しい・愛する,接続法,過去 (ra),quisiera,quisieras,quisiera,quisiéramos,quisierais,quisieran
+querer,欲しい・愛する,分詞,過去,-,querido,-,-,-,-
+querer,欲しい・愛する,分詞,現在 (Gerundio),-,queriendo,-,-,-,-
+hablar,話す,直説法,未来,hablaré,hablarás,hablará,hablaremos,hablaréis,hablarán
+hablar,話す,直説法,過去未来 (条件法),hablaría,hablarías,hablaría,hablaríamos,hablaríais,hablarían
+hablar,話す,直説法,現在完了,he hablado,has hablado,ha hablado,hemos hablado,habéis hablado,han hablado
+hablar,話す,直説法,過去完了,había hablado,habías hablado,había hablado,habíamos hablado,habíais hablado,habían hablado
+hablar,話す,命令法,肯定,-,habla,hable,hablemos,hablad,hablen
+hablar,話す,接続法,現在,hable,hables,hable,hablemos,habléis,hablen
+hablar,話す,接続法,過去 (ra),hablara,hablaras,hablara,habláramos,hablarais,hablaran
+hablar,話す,分詞,過去,-,hablado,-,-,-,-
+hablar,話す,分詞,現在 (Gerundio),-,hablando,-,-,-,-
+comer,食べる,直説法,未来,comeré,comerás,comerá,comeremos,comeréis,comerán
+comer,食べる,直説法,過去未来 (条件法),comería,comerías,comería,comeríamos,comeríais,comerían
+comer,食べる,直説法,現在完了,he comido,has comido,ha comido,hemos comido,habéis comido,han comido
+comer,食べる,直説法,過去完了,había comido,habías comido,había comido,habíamos comido,habíais comido,habían comido
+comer,食べる,命令法,肯定,-,come,coma,comamos,comed,coman
+comer,食べる,接続法,現在,coma,comas,coma,comamos,comáis,coman
+comer,食べる,接続法,過去 (ra),comiera,comieras,comiera,comiéramos,comierais,comieran
+comer,食べる,分詞,過去,-,comido,-,-,-,-
+comer,食べる,分詞,現在 (Gerundio),-,comiendo,-,-,-,-
+vivir,住む・生きる,直説法,未来,viviré,vivirás,vivirá,viviremos,viviréis,vivirán
+vivir,住む・生きる,直説法,過去未来 (条件法),viviría,vivirías,viviría,viviríamos,viviríais,vivirían
+vivir,住む・生きる,直説法,現在完了,he vivido,has vivido,ha vivido,hemos vivido,habéis vivido,han vivido
+vivir,住む・生きる,直説法,過去完了,había vivido,habías vivido,había vivido,habíamos vivido,habíais vivido,habían vivido
+vivir,住む・生きる,命令法,肯定,-,vive,viva,vivamos,vivid,vivan
+vivir,住む・生きる,接続法,現在,viva,vivas,viva,vivamos,viváis,vivan
+vivir,住む・生きる,接続法,過去 (ra),viviera,vivieras,viviera,viviéramos,vivierais,vivieran
+vivir,住む・生きる,分詞,過去,-,vivido,-,-,-,-
+vivir,住む・生きる,分詞,現在 (Gerundio),-,viviendo,-,-,-,-
+llegar,到着する,直説法,未来,llegaré,llegarás,llegará,llegaremos,llegaréis,llegarán
+llegar,到着する,直説法,過去未来 (条件法),llegaría,llegarías,llegaría,llegaríamos,llegaríais,llegarían
+llegar,到着する,直説法,現在完了,he llegado,has llegado,ha llegado,hemos llegado,habéis llegado,han llegado
+llegar,到着する,直説法,過去完了,había llegado,habías llegado,había llegado,habíamos llegado,habíais llegado,habían llegado
+llegar,到着する,命令法,肯定,-,llega,llegue,lleguemos,llegad,lleguen
+llegar,到着する,接続法,現在,llegue,llegues,llegue,lleguemos,llegéis,lleguen
+llegar,到着する,接続法,過去 (ra),llegara,llegaras,llegara,llegáramos,llegarais,llegaran
+llegar,到着する,分詞,過去,-,llegado,-,-,-,-
+llegar,到着する,分詞,現在 (Gerundio),-,llegando,-,-,-,-
+creer,信じる,直説法,未来,creeré,creerás,creerá,creeremos,creeréis,creerán
+creer,信じる,直説法,過去未来 (条件法),creería,creerías,creería,creeríamos,creeríais,creerían
+creer,信じる,直説法,現在完了,he creído,has creído,ha creído,hemos creído,habéis creído,han creído
+creer,信じる,直説法,過去完了,había creído,habías creído,había creído,habíamos creído,habíais creído,habían creído
+creer,信じる,命令法,肯定,-,cree,crea,creamos,creed,crean
+creer,信じる,接続法,現在,crea,creas,crea,creamos,creáis,crean
+creer,信じる,接続法,過去 (ra),creyera,creyeras,creyera,creyéramos,creyerais,creyeran
+creer,信じる,分詞,過去,-,creído,-,-,-,-
+creer,信じる,分詞,現在 (Gerundio),-,creyendo,-,-,-,-
+poner,置く,直説法,未来,pondré,pondrás,pondrá,pondremos,pondréis,pondrán
+poner,置く,直説法,過去未来 (条件法),pondría,pondrías,pondría,pondríamos,pondríais,pondrían
+poner,置く,直説法,現在完了,he puesto,has puesto,ha puesto,hemos puesto,habéis puesto,han puesto
+poner,置く,直説法,過去完了,había puesto,habías puesto,había puesto,habíamos puesto,habíais puesto,habían puesto
+poner,置く,命令法,肯定,-,pon,ponga,pongamos,poned,pongan
+poner,置く,接続法,現在,ponga,pongas,ponga,pongamos,pongáis,pongan
+poner,置く,接続法,過去 (ra),pusiera,pusieras,pusiera,pusiéramos,pusierais,pusieran
+poner,置く,分詞,過去,-,puesto,-,-,-,-
+poner,置く,分詞,現在 (Gerundio),-,poniendo,-,-,-,-
+salir,出る,直説法,未来,saldré,saldrás,saldrá,saldremos,saldréis,saldrán
+salir,出る,直説法,過去未来 (条件法),saldría,saldrías,saldría,saldríamos,saldríais,saldrían
+salir,出る,直説法,現在完了,he salido,has salido,ha salido,hemos salido,habéis salido,han salido
+salir,出る,直説法,過去完了,había salido,habías salido,había salido,habíamos salido,habíais salido,habían salido
+salir,出る,命令法,肯定,-,sal,salga,salgamos,salid,salgan
+salir,出る,接続法,現在,salga,salgas,salga,salgamos,salgáis,salgan
+salir,出る,接続法,過去 (ra),saliera,salieras,saliera,saliéramos,salierais,salieran
+salir,出る,分詞,過去,-,salido,-,-,-,-
+salir,出る,分詞,現在 (Gerundio),-,saliendo,-,-,-,-
+venir,来る,直説法,未来,vendré,vendrás,vendrá,vendremos,vendréis,vendrán
+venir,来る,直説法,過去未来 (条件法),vendría,vendrías,vendría,vendríamos,vendríais,vendrían
+venir,来る,直説法,現在完了,he venido,has venido,ha venido,hemos venido,habéis venido,han venido
+venir,来る,直説法,過去完了,había venido,habías venido,había venido,habíamos venido,habíais venido,habían venido
+venir,来る,命令法,肯定,-,ven,venga,vengamos,venid,vengan
+venir,来る,接続法,現在,venga,vengas,venga,vengamos,vengáis,vengan
+venir,来る,接続法,過去 (ra),viniera,vinieras,viniera,viniéramos,vinierais,vinieran
+venir,来る,分詞,過去,-,venido,-,-,-,-
+venir,来る,分詞,現在 (Gerundio),-,viniendo,-,-,-,-
+traer,持ってくる,直説法,未来,traeré,traerás,traerá,traeremos,traeréis,traerán
+traer,持ってくる,直説法,過去未来 (条件法),traería,traerías,traería,traeríamos,traeríais,traerían
+traer,持ってくる,直説法,現在完了,he traído,has traído,ha traído,hemos traído,habéis traído,han traído
+traer,持ってくる,直説法,過去完了,había traído,habías traído,había traído,habíamos traído,habíais traído,habían traído
+traer,持ってくる,命令法,肯定,-,trae,traiga,traigamos,traed,traigan
+traer,持ってくる,接続法,現在,traiga,traigas,traiga,traigamos,traigáis,traigan
+traer,持ってくる,接続法,過去 (ra),trajera,trajeras,trajera,trajéramos,trajerais,trajeran
+traer,持ってくる,分詞,過去,-,traído,-,-,-,-
+traer,持ってくる,分詞,現在 (Gerundio),-,trayendo,-,-,-,-
+conocer,知っている (面識),直説法,未来,conoceré,conocerás,conocerá,conoceremos,conoceréis,conocerán
+conocer,知っている (面識),直説法,過去未来 (条件法),conocería,conocerías,conocería,conoceríamos,conoceríais,conocerían
+conocer,知っている (面識),直説法,現在完了,he conocido,has conocido,ha conocido,hemos conocido,habéis conocido,han conocido
+conocer,知っている (面識),直説法,過去完了,había conocido,habías conocido,había conocido,habíamos conocido,habíais conocido,habían conocido
+conocer,知っている (面識),命令法,肯定,-,conoce,conozca,conozcamos,conoced,conozcan
+conocer,知っている (面識),接続法,現在,conozca,conozcas,conozca,conozcamos,conozcáis,conozcan
+conocer,知っている (面識),接続法,過去 (ra),conociera,conocieras,conociera,conociéramos,conocierais,conocieran
+conocer,知っている (面識),分詞,過去,-,conocido,-,-,-,-
+conocer,知っている (面識),分詞,現在 (Gerundio),-,conociendo,-,-,-,-
+sentir,感じる,直説法,未来,sentiré,sentirás,sentirá,sentiremos,sentiréis,sentirán
+sentir,感じる,直説法,過去未来 (条件法),sentiría,sentirías,sentiría,sentiríamos,sentiríais,sentirían
+sentir,感じる,直説法,現在完了,he sentido,has sentido,ha sentido,hemos sentido,habéis sentido,han sentido
+sentir,感じる,直説法,過去完了,había sentido,habías sentido,había sentido,habíamos sentido,habíais sentido,habían sentido
+sentir,感じる,命令法,肯定,-,siente,sienta,sintamos,sentid,sientan
+sentir,感じる,接続法,現在,sienta,sientas,sienta,sintamos,sintáis,sientan
+sentir,感じる,接続法,過去 (ra),sintiera,sintieras,sintiera,sintiéramos,sintierais,sintieran
+sentir,感じる,分詞,過去,-,sentido,-,-,-,-
+sentir,感じる,分詞,現在 (Gerundio),-,sintiendo,-,-,-,-
+pedir,頼む・求める,直説法,未来,pediré,pedirás,pedirá,pediremos,pediréis,pedirán
+pedir,頼む・求める,直説法,過去未来 (条件法),pediría,pedirías,pediría,pediríamos,pediríais,pedirían
+pedir,頼む・求める,直説法,現在完了,he pedido,has pedido,ha pedido,hemos pedido,habéis pedido,han pedido
+pedir,頼む・求める,直説法,過去完了,había pedido,habías pedido,había pedido,habíamos pedido,habíais pedido,habían pedido
+pedir,頼む・求める,命令法,肯定,-,pide,pida,pidamos,pedid,pidan
+pedir,頼む・求める,接続法,現在,pida,pidas,pida,pidamos,pidáis,pidan
+pedir,頼む・求める,接続法,過去 (ra),pidiera,pidieras,pidiera,pidiéramos,pidierais,pidieran
+pedir,頼む・求める,分詞,過去,-,pedido,-,-,-,-
+pedir,頼む・求める,分詞,現在 (Gerundio),-,pidiendo,-,-,-,-
+dormir,眠る,直説法,未来,dormiré,dormirás,dormirá,dormiremos,dormiréis,dormirán
+dormir,眠る,直説法,過去未来 (条件法),dormiría,dormirías,dormiría,dormiríamos,dormiríais,dormirían
+dormir,眠る,直説法,現在完了,he dormido,has dormido,ha dormido,hemos dormido,habéis dormido,han dormido
+dormir,眠る,直説法,過去完了,había dormido,habías dormido,había dormido,habíamos dormido,habíais dormido,habían dormido
+dormir,眠る,命令法,肯定,-,duerme,duerma,durmamos,dormid,duerman
+dormir,眠る,接続法,現在,duerma,duermas,duerma,durmamos,durmáis,duerman
+dormir,眠る,接続法,過去 (ra),durmiera,durmieras,durmiera,durmiéramos,durmierais,durmieran
+dormir,眠る,分詞,過去,-,dormido,-,-,-,-
+dormir,眠る,分詞,現在 (Gerundio),-,durmiendo,-,-,-,-
+pensar,考える,直説法,未来,pensaré,pensarás,pensará,pensaremos,pensaréis,pensarán
+pensar,考える,直説法,過去未来 (条件法),pensaría,pensarías,pensaría,pensaríamos,pensaríais,pensarían
+pensar,考える,直説法,現在完了,he pensado,has pensado,ha pensado,hemos pensado,habéis pensado,han pensado
+pensar,考える,直説法,過去完了,había pensado,habías pensado,había pensado,habíamos pensado,habíais pensado,habían pensado
+pensar,考える,命令法,肯定,-,piensa,piense,pensemos,pensad,piensen
+pensar,考える,接続法,現在,piense,pienses,piense,pensemos,penséis,piensen
+pensar,考える,接続法,過去 (ra),pensara,pensaras,pensara,pensáramos,pensarais,pensaran
+pensar,考える,分詞,過去,-,pensado,-,-,-,-
+pensar,考える,分詞,現在 (Gerundio),-,pensando,-,-,-,-
+entender,理解する,直説法,未来,entenderé,entenderás,entenderá,entenderemos,entenderéis,entenderán
+entender,理解する,直説法,過去未来 (条件法),entendería,entenderías,entendería,entenderíamos,entenderíais,entenderían
+entender,理解する,直説法,現在完了,he entendido,has entendido,ha entendido,hemos entendido,habéis entendido,han entendido
+entender,理解する,直説法,過去完了,había entendido,habías entendido,había entendido,habíamos entendido,habíais entendido,habían entendido
+entender,理解する,命令法,肯定,-,entiende,entienda,entendamos,entended,entiendan
+entender,理解する,接続法,現在,entienda,entiendas,entienda,entendamos,entendáis,entiendan
+entender,理解する,接続法,過去 (ra),entendiera,entendieras,entendiera,entendiéramos,entendierais,entendieran
+entender,理解する,分詞,過去,-,entendido,-,-,-,-
+entender,理解する,分詞,現在 (Gerundio),-,entendiendo,-,-,-,-
+jugar,遊ぶ・競技する,直説法,未来,jugaré,jugarás,jugará,jugaremos,jugaréis,jugarán
+jugar,遊ぶ・競技する,直説法,過去未来 (条件法),jugaría,jugarías,jugaría,jugaríamos,jugaríais,jugarían
+jugar,遊ぶ・競技する,直説法,現在完了,he jugado,has jugado,ha jugado,hemos jugado,habéis jugado,han jugado
+jugar,遊ぶ・競技する,直説法,過去完了,había jugado,habías jugado,había jugado,habíamos jugado,habíais jugado,habían jugado
+jugar,遊ぶ・競技する,命令法,肯定,-,juega,juegue,juguemos,jugad,jueguen
+jugar,遊ぶ・競技する,接続法,現在,juegue,juegues,juegue,juguemos,juguéis,jueguen
+jugar,遊ぶ・競技する,接続法,過去 (ra),jugara,jugaras,jugara,jugáramos,jugarais,jugaran
+jugar,遊ぶ・競技する,分詞,過去,-,jugado,-,-,-,-
+jugar,遊ぶ・競技する,分詞,現在 (Gerundio),-,jugando,-,-,-,-
+escribir,書く,直説法,未来,escribiré,escribirás,escribirá,escribiremos,escribiréis,escribirán
+escribir,書く,直説法,過去未来 (条件法),escribiría,escribirías,escribiría,escribiríamos,escribiríais,escribirían
+escribir,書く,直説法,現在完了,he escrito,has escrito,ha escrito,hemos escrito,habéis escrito,han escrito
+escribir,書く,直説法,過去完了,había escrito,habías escrito,había escrito,habíamos escrito,habíais escrito,habían escrito
+escribir,書く,命令法,肯定,-,escribe,escriba,escribamos,escribid,escriban
+escribir,書く,接続法,現在,escriba,escribas,escriba,escribamos,escribáis,escriban
+escribir,書く,接続法,過去 (ra),escribiera,escribieras,escribiera,escribiéramos,escribierais,escribieran
+escribir,書く,分詞,過去,-,escrito,-,-,-,-
+escribir,書く,分詞,現在 (Gerundio),-,escribiendo,-,-,-,-
+leer,読む,直説法,未来,leeré,leerás,leerá,leeremos,leeréis,leerán
+leer,読む,直説法,過去未来 (条件法),leería,leerías,leería,leeríamos,leeríais,leerían
+leer,読む,直説法,現在完了,he leído,has leído,ha leído,hemos leído,habéis leído,han leído
+leer,読む,直説法,過去完了,había leído,habías leído,había leído,habíamos leído,habíais leído,habían leído
+leer,読む,命令法,肯定,-,lee,lea,leamos,leed,lean
+leer,読む,接続法,現在,lea,leas,lea,leamos,leáis,lean
+leer,読む,接続法,過去 (ra),leyera,leyeras,leyera,leyéramos,leyerais,leyeran
+leer,読む,分詞,過去,-,leído,-,-,-,-
+leer,読む,分詞,現在 (Gerundio),-,leyendo,-,-,-,-
+gustar,気に入る (～が好き),直説法,未来,me gustará,te gustará,le gustará,nos gustará,os gustará,les gustará
+gustar,気に入る (～が好き),直説法,過去未来 (条件法),me gustaría,te gustaría,le gustaría,nos gustaría,os gustaría,les gustaría
+gustar,気に入る (～が好き),直説法,現在完了,me ha gustado,te ha gustado,le ha gustado,nos ha gustado,os ha gustado,les ha gustado
+gustar,気に入る (～が好き),直説法,過去完了,me había gustado,te había gustado,le había gustado,nos había gustado,os había gustado,les había gustado
+gustar,気に入る (～が好き),接続法,現在,me guste,te guste,le guste,nos guste,os guste,les guste
+gustar,気に入る (～が好き),接続法,過去 (ra),me gustara,te gustara,le gustara,nos gustara,os gustara,les gustara
+levantarse,起きる (再帰),直説法,未来,me levantaré,te levantarás,se levantará,nos levantaremos,os levantaréis,se levantarán
+levantarse,起きる (再帰),直説法,過去未来 (条件法),me levantaría,te levantarías,se levantaría,nos levantaríamos,os levantaríais,se levantarían
+levantarse,起きる (再帰),直説法,現在完了,me he levantado,te has levantado,se ha levantado,nos hemos levantado,os habéis levantado,se han levantado
+levantarse,起きる (再帰),直説法,過去完了,me había levantado,te habías levantado,se había levantado,nos habíamos levantado,os habíais levantado,se habían levantado
+levantarse,起きる (再帰),接続法,現在,me levante,te levantes,se levante,nos levantemos,os levantéis,se levanten
+levantarse,起きる (再帰),接続法,過去 (ra),me levantara,te levantaras,se levantara,nos levantáramos,os levantarais,se levantaran
+levantarse,起きる (再帰),分詞,過去,-,levantado,-,-,-,-
+levantarse,起きる (再帰),分詞,現在 (Gerundio),-,levantándose,-,-,-,-
+llegar,到着する,直説法,線過去,llegaba,llegabas,llegaba,llegábamos,llegabais,llegaban
+gustar,気に入る (～が好き),命令法,肯定,-,gusta,guste,gustemos,gustad,gusten
+gustar,気に入る (～が好き),分詞,過去,-,gustado,-,-,-,-
+gustar,気に入る (～が好き),分詞,現在 (Gerundio),-,gustando,-,-,-,-
+levantarse,起きる (再帰),直説法,線過去,me levantaba,te levantabas,se levantaba,nos levantábamos,os levantabais,se levantaban
+levantarse,起きる (再帰),命令法,肯定,-,levántate,levántese,levantémonos,levantaos,levántense
+estar,～である (状態),直説法,現在完了,he estado,has estado,ha estado,hemos estado,habéis estado,han estado
+estar,～である (状態),直説法,過去完了,había estado,habías estado,había estado,habíamos estado,habíais estado,habían estado
+estar,～である (状態),接続法,過去 (ra),estuviera,estuvieras,estuviera,estuviéramos,estuvierais,estuvieran
+ir,行く,直説法,現在完了,he ido,has ido,ha ido,hemos ido,habéis ido,han ido
+ir,行く,直説法,過去完了,había ido,habías ido,había ido,habíamos ido,habíais ido,habían ido
+ir,行く,接続法,過去 (ra),fuera,fueras,fuera,fuéramos,fuerais,fueran
+haber,ある・いる (助動詞),直説法,現在完了,he habido,has habido,ha habido,hemos habido,habéis habido,han habido
+haber,ある・いる (助動詞),直説法,過去完了,había habido,habías habido,había habido,habíamos habido,habíais habido,habían habido
+haber,ある・いる (助動詞),命令法,肯定,-,he,haya,hayamos,habed,hayan

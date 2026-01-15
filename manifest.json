@@ -1,0 +1,15 @@
+{
+    "name": "Spanish Verb Master",
+    "short_name": "VerbMaster",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FF8BA7",
+    "theme_color": "#FF8BA7",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

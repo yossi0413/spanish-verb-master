@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>スペイン語動詞マスター</title>
+    <link rel="stylesheet" href="style.css?v=2.5">
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#FF8BA7">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Start Screen -->
+        <section id="start-screen" class="screen active-screen">
+            <header class="hero">
+                <h1>スペイン語<br>動詞マスター</h1>
+                <p>楽しく活用練習！</p>
+            </header>
+            <nav class="main-menu">
+                <button class="btn btn-primary btn-lg" data-action="start-random">
+                    <span class="icon">🎲</span> ランダム練習
+                </button>
+                <button class="btn btn-primary btn-lg" data-action="show-category-selection">
+                    <span class="icon">📚</span> 分野別練習
+                </button>
+                <button class="btn btn-primary btn-lg" data-action="start-weak">
+                    <span class="icon">★</span> 苦手克服
+                </button>
+                <button class="btn btn-primary btn-lg" data-action="show-dictionary">
+                    <span class="icon">📖</span> 辞書
+                </button>
+                <button class="btn btn-outline btn-lg" data-action="show-data">
+                    <span class="icon">💾</span> データ
+                </button>
+            </nav>
+        </section>
+
+        <!-- Category Selection Screen -->
+        <section id="category-screen" class="screen hidden">
+            <header class="screen-header">
+                <button class="btn-icon back-btn" data-action="back-home">←</button>
+                <h2>分野選択</h2>
+            </header>
+            <div class="category-list" id="category-list">
+                <!-- Checkboxes injected by JS -->
+            </div>
+            <div style="padding-bottom: 80px;"></div> <!-- Spacer -->
+            <div class="fixed-footer">
+                <button class="btn btn-primary btn-full" data-action="start-category-quiz">クイズ開始！</button>
+            </div>
+        </section>
+
+        <!-- Quiz/Input Screen -->
+        <section id="quiz-screen" class="screen hidden">
+            <header class="quiz-header">
+                <button class="btn-icon back-btn" data-action="back-home">←</button>
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width: 0%"></div>
+                </div>
+                <span class="score-display">0/10</span>
+            </header>
+            <div id="quiz-container">
+                <!-- Dynamic Content injected by JS -->
+            </div>
+            <div id="feedback-area" class="hidden"></div>
+        </section>
+
+        <!-- Dictionary Screen -->
+        <section id="dictionary-screen" class="screen hidden">
+            <header class="screen-header">
+                <button class="btn-icon back-btn" data-action="back-home">←</button>
+                <h2>動詞辞書</h2>
+            </header>
+            <div class="search-bar">
+                <input type="text" id="verb-search" placeholder="動詞を検索...">
+            </div>
+            <div id="verb-list" class="scroll-container">
+                <!-- List items -->
+            </div>
+        </section>
+
+        <!-- Dictionary Detail Screen -->
+        <section id="detail-screen" class="screen hidden">
+            <header class="screen-header">
+                <button class="btn-icon back-btn" data-action="back-dictionary">←</button>
+                <h2>詳細</h2>
+            </header>
+            <div class="detail-content">
+                <div class="verb-header-card">
+                    <h1 id="detail-infinitive">ser</h1>
+                    <p id="detail-meaning">～である</p>
+                    <div class="badges">
+                        <!-- Badges will be hidden by JS in grouped mode, or can be removed if unused -->
+                    </div>
+                </div>
+
+                <!-- Dynamic content will ideally be appended here -->
+            </div>
+        </section>
+
+        <!-- Data Management Screen -->
+        <section id="data-screen" class="screen hidden">
+            <header class="screen-header">
+                <button class="btn-icon back-btn" data-action="back-home">←</button>
+                <h2>データ管理</h2>
+            </header>
+            <div class="settings-list">
+
+                <div class="setting-item">
+                    <button class="btn btn-outline" id="export-csv">CSVエクスポート</button>
+                </div>
+                <div class="setting-item">
+                    <button class="btn btn-outline" id="import-csv">CSVインポート</button>
+                </div>
+                <footer class="credits" style="text-align: center; margin-top: 40px; color: var(--text-secondary);">
+                    <p>Created for Learning</p>
+                </footer>
+            </div>
+        </section>
+
+        <!-- Result Screen -->
+        <section id="result-screen" class="screen hidden">
+            <div class="result-content">
+                <h2 style="font-size: 2rem; color: var(--text-primary);">結果発表！</h2>
+                <div class="score-circle">
+                    <span id="final-score">0</span>
+                </div>
+                <p id="result-message">よく頑張りました！</p>
+                <div class="action-buttons">
+                    <button class="btn btn-primary" data-action="retry">もう一度！</button>
+                    <button class="btn btn-outline" data-action="back-home">ホームに戻る</button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script type="module" src="app.js?v=1.5"></script>
+</body>
+
+</html>
