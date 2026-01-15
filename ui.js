@@ -270,9 +270,10 @@ export const UI = {
         const container = document.getElementById('quiz-container');
         const question = this.currentSession.getCurrentQuestion();
 
-        const feedback = document.getElementById('feedback-area');
-        feedback.classList.add('hidden');
-        feedback.innerHTML = '';
+        const feedbackOverlay = document.getElementById('feedback-overlay');
+        feedbackOverlay.classList.remove('active');
+        // feedbackOverlay.innerHTML = ''; // Keep structure, just hide
+
 
         const starClass = question.verb.starred ? 'starred' : '';
         const starIcon = question.verb.starred ? '★' : '☆';
@@ -337,34 +338,42 @@ export const UI = {
     },
 
     showFeedback(result) {
-        const feedback = document.getElementById('feedback-area');
-        feedback.classList.remove('hidden');
-
-        // Scroll to feedback
-        feedback.scrollIntoView({ behavior: 'smooth', block: 'end' });
+        const overlay = document.getElementById('feedback-overlay');
+        const content = overlay.querySelector('.feedback-content');
+        
+        // Blur input to hide keyboard
+        const input = document.getElementById('answer-input');
+        if (input) input.blur();
 
         if (result.correct) {
-            feedback.innerHTML = `
-                <div class="feedback success">
-                    <span class="icon">✨</span> 正解！
-                    <button class="btn btn-primary btn-sm" id="next-btn" style="background:#fff; color:var(--success-color); border:none;">次へ</button>
-                </div>
+            content.innerHTML = `
+                <span class="feedback-icon">✨</span>
+                <div class="feedback-title feedback-correct">正解！</div>
+                <div class="feedback-text">Excellent!</div>
+                <button class="btn-next" id="overlay-next-btn">次へ</button>
             `;
-
         } else {
-            feedback.innerHTML = `
-                <div class="feedback error">
-                    <span class="icon">😢</span> 残念...
-                    <p>正解は: <strong>${result.question.answer}</strong></p>
-                    <button class="btn btn-primary btn-sm" id="next-btn" style="background:#fff; color:var(--error-color); border:none;">次へ</button>
-                </div>
+            content.innerHTML = `
+                <span class="feedback-icon">😢</span>
+                <div class="feedback-title feedback-wrong">残念...</div>
+                <div class="feedback-text">正解は: <strong>${result.question.answer}</strong></div>
+                <button class="btn-next" id="overlay-next-btn">次へ</button>
             `;
-
         }
 
-        document.getElementById('next-btn').onclick = () => {
-            this.nextQuestion();
-        };
+        overlay.classList.add('active');
+
+        // Focus next button for keyboard users?
+        setTimeout(() => {
+            const nextBtn = document.getElementById('overlay-next-btn');
+            if (nextBtn) {
+                nextBtn.onclick = () => {
+                    overlay.classList.remove('active');
+                    this.nextQuestion();
+                };
+                nextBtn.focus();
+            }
+        }, 50);
     },
 
     updateProgress() {
